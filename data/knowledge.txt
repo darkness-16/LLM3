@@ -1,0 +1,3 @@
+Newton's first law states that an object remains at rest or in motion unless acted upon by a force.
+Python is widely used in AI and machine learning.
+GitHub is used to host repositories.
